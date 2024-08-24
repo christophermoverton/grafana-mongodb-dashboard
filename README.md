@@ -1,6 +1,6 @@
-# Weather Alerts Dashboard with MongoDB, Prometheus, and Grafana
+# Weather Alerts Database Dashboard with MongoDB, Prometheus, and Grafana
 
-This project provides a comprehensive monitoring and alerting system for weather alerts using MongoDB, Prometheus, and Grafana. It leverages the MongoDB exporter to expose weather alert data from MongoDB to Prometheus, which is then visualized in Grafana.
+This project provides a comprehensive monitoring and alerting system for weather alerts database using MongoDB, Prometheus, and Grafana. It leverages the MongoDB exporter to expose weather alert database statistics data from MongoDB to Prometheus, which is then visualized in Grafana.
 
 ## Features
 
